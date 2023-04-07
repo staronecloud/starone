@@ -1,0 +1,16 @@
+{
+    "apps": [
+      {
+        "app_title": "StarOne TV",
+        "app_desc": "Track, watch movies/tvShow for free",
+        "app_icon": "",
+        "app_header_image": "",
+        "app_uri": "com.hola.starone",
+        "app_rating": "4.9",
+        "app_cta_text": "Install",
+        "app_price": "Free",
+        "app_adType": "native",
+        "hideIfAppInstalled": true
+      }
+    ]
+  }
