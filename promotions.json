@@ -3,7 +3,7 @@
       {
         "app_title": "StarOne TV",
         "app_desc": "Track, watch movies/tvShow for free",
-        "app_icon": "",
+        "app_icon": "https://raw.githubusercontent.com/staronecloud/starone/main/ic_launcher.png",
         "app_header_image": "",
         "app_uri": "com.hola.starone",
         "app_rating": "4.9",
