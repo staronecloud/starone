@@ -9,7 +9,7 @@
         "app_rating": "4.9",
         "app_cta_text": "Install",
         "app_price": "Free",
-        "app_adType": "interstitial",
+        "app_adType": "native",
         "hideIfAppInstalled": true
       }
     ]
